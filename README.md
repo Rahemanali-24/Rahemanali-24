@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AngularJs,NodeJs,Express,Mongo**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **NodeJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
